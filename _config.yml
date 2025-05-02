@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: ""
+    url: ""
     desc: Follow me on Twitter
     share: false
 
@@ -92,15 +92,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: KuangyuZou
     url: https://github.com/KuangyuZou
-    desc: Fork me on GitHub
+    desc: see more details on my github
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Kuangyu Zou
+    url: https://www.linkedin.com/in/kuangyu-connie-zou-4569811b4/
     desc: Connect with me on LinkedIn
     share: true
 
