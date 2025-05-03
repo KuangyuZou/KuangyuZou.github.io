@@ -3,7 +3,7 @@ layout: post
 title: "My Brief Introduction"
 date: 2025-05-02
 author: Kuangyu Zou
-categories: About Me
+categories: About_Me
 ---
 
 ## Introduction
