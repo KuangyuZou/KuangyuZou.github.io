@@ -6,6 +6,7 @@ author: Kuangyu Zou
 categories: Project
 ---
 
+## Project Brief Summary
 Over three months (October–December 2023), I led the development of an Airline Rating Recommendation System using more than 23,000 passenger reviews. I began by ingesting raw review data—cleaning missing entries, normalizing timestamps, and categorizing metadata (e.g., seat class, route, airline). Through exploratory analysis, I visualized rating distributions over time, computed correlation matrices to pinpoint top drivers of satisfaction (including seat comfort, cabin service, and punctuality), and identified seasonal sentiment trends.
 
 Next, I transformed text feedback into quantitative features using CountVectorizer, extracting the most informative unigrams and bigrams. I complemented this with sentiment scoring (via a lexicon-based approach) and engineered additional variables such as review length and term diversity. These steps produced a rich feature set of over 150 variables.
