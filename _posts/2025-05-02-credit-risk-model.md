@@ -2,8 +2,7 @@
 layout: post
 title: "Credit Risk Modeling Project"
 date: 2025-05-02
-categories: Jekyll
-tags:	jekyll welcome
+categories: Project
 ---
 
 ## Project Brief Summary
