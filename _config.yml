@@ -54,6 +54,12 @@ jekyll-archives:
     category: '/category/:name/'
     tag: '/tag/:name/'
 
+# Resume Page Set Up
+main_nav:
+  - title: "Resume"
+    url: "/resume/"
+
+
 # Disqus comments
 # disqus_shortname: bencentra
 
