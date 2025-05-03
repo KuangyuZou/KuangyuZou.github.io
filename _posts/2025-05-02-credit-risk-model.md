@@ -2,6 +2,7 @@
 layout: post
 title: "Credit Risk Modeling Project"
 date: 2025-05-02
+author: Kuangyu Zou
 categories: Project
 ---
 
