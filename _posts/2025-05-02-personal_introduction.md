@@ -4,7 +4,6 @@ title: "My Brief Introduction"
 date: 2025-05-02
 author: Kuangyu Zou
 categories: About_Me
-cover: "/assets/IMG_6769.JPG"
 ---
 
 ## Introduction
