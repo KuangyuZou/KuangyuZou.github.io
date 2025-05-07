@@ -4,6 +4,7 @@ title: "My Brief Introduction"
 date: 2025-05-02
 author: Kuangyu Zou
 permalink: /About_me/
+categories: About_me
 ---
 
 ## Introduction
